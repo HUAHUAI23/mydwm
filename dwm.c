@@ -1582,7 +1582,7 @@ run(void)
 
 void
 runAutostart(void) {
-	system("cd ~/scripts; ./autostart.sh &");
+	system("cd ~/D-W-M/scripts; ./autostart.sh &");
 }
 
 void
